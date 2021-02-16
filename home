@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Peiman Barnaghi</title>
+
+<meta content="text/html; X-Content-Type-Options=text/javascript; charset=ISO-8859-1">
+  <link rel="stylesheet" type="text/css" href="p-css.css">
+<link rel="icon"
+      type="image/png"
+      href="https://pbarnaghi.github.io/favicon.png">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179590858-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179590858-1');
+</script>
+
+</head>
+
+    <body>
+    <table text-align="left;" ;="" margin-left="auto;" margin-right="auto;" align="center" border="0" cellpadding="5" cellspacing="5" width="85%">
+
+  <tbody>
+    <tr>
+      <td colspan="2" rowspan="1" vertical-align="top;"> <br>
+      <br>
+      <table ;="" text-align="left;" align="left" border="0" cellpadding="2" cellspacing="2" width="75%">
+        <tbody>
+          <tr>
+            <td style="text-align: left; vertical-align: top; width:25%; ">
+                <img alt="Peiman Barnaghi" src="images/PB-1.jpg">
+            </td>
+            <td style="text-align: left; vertical-align: middle; padding-left: 5;">
+                <big>Peiman Barnaghi</big><br>
+                Department of computer Sciences<br>
+                Edge Hill University<br>
+                Email: peiman [dot] barnaghi [at] gmail.com<br>
+            <br/>
+            <a href="https://twitter.com/PeimanBarnaghi"><img src="images/Twitter.png" alt="Peiman on Twitter" ;="" border="0" height="50" width="50"></a>&nbsp;&nbsp;
+            <a href="https://www.linkedin.com/in/peimanbarnaghi"><img 0px;="" alt="Peiman on Linkedin" src="images/Linkedin.png" border="" height="50" width="50"></a><a href="https://twitter.com/PBarnaghi"><br><br><br>
+            </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <br>
+    </tr>
+    <tr>
+      <td colspan="2" rowspan="1" vertical-align="top;">I am researcher in Machine Intelligence Applied to text based reviews.
+
+      <br>
+
+      <h3><span color="rgb(132," 132,="" 132);="">Research interests</span></h3>
+      <h4> </h4>My main research goal is to develop AI and machine learning solutions for analysing different type of data. I work on machine learning, deep learning and natural language processing to solve problems and develop new technologies for the future text analysis systems.
+       <br>
+
+      <ul>
+        <li>Time-series data processing and pattern analysis </li>
+      </ul>
+      <ul>
+        <li>Continual learning and semi-supervised learning models&nbsp;</li>
+      </ul>
+      <br>
+
+      <h3 color="rgb(132," 132,="" 132);="">What's new?</h3>
+      <ul>
+
+      </ul>
+      <h3 color="rgb(132," 132,="" 132);=""><br>
+
+        <tr>
+      <td vertical-align="top;">[Social media icons by Andrea Nagar from <a href="http://www.softicons.com/social-media-icons/flat-round-social-icons-by-andrea-nagar/slideshare-icon">softicons</a>]<br>
+      </td>
+      <td vertical-align=":" top;=""><br>
+      </td>
+    </tr>
+
+  </tbody>
+</table>
+<br>
+</body>
+</html>
